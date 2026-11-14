@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%7C+JavaScript+%7C+TypeScript+%7C+Swift+%7C+Go;AI-Powered+Full-Stack+Software+Engineer;Building+Autonomous+AI+Agents+%26+Intelligent+Systems;LangChain+%7C+OpenAI+%7C+PyTorch+%7C+Next.js+%7C+Docker;Open+For+Exciting+AI+%26+Full-Stack+Engineering+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Tech+Entrepreneur;Building+Autonomous+AI+Agents+%26+Intelligent+SaaS;Python+%7C+LangChain+%7C+OpenAI+%7C+Next.js+%7C+TypeScript;Turning+Breakthrough+AI+Into+Scalable+Products;Open+For+High-Impact+AI+Roles+%26+Collaborations!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,22 +28,22 @@
 
 ---
 
-### 👨‍💻 Quick Recruiter Overview
+### 👨‍💻 Quick Overview
 
 ```yaml
-candidate: Utkarsh
+founder: Utkarsh
 github: dhecode
-role: AI & Full-Stack Software Engineer
+role: AI Engineer & Tech Entrepreneur
 top_languages: [Python, JavaScript, TypeScript, Swift, Go, Java, C++, SQL]
-focus_areas: Generative AI, Autonomous Agents, LLM Integrations, Scalable Cloud Systems, iOS
-seeking: Full-time AI Engineer / Full-Stack Engineer / Backend SDE
+focus_areas: Generative AI, Autonomous Agents, LLM Integrations, Scalable Cloud Systems, Product Strategy
+seeking: High-Impact AI Engineer Roles / Technical Co-Founder / Strategic Collaborations
 core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, Next.js, Node.js, Docker, PostgreSQL]
 ```
 
-- 🚀 **Core Expertise:** Building scalable AI-driven applications, high-performance backends, and responsive cross-platform experiences.
+- 🚀 **Founder & Builder:** Passionate about commercializing AI research into scalable, high-growth products and autonomous systems.
 - 💼 **Portfolio:** Explore my live work at [utkarsh-portfolio-five.vercel.app](https://utkarsh-portfolio-five.vercel.app/).
-- 🌱 **Current Focus:** Multi-agent orchestration, LLM application pipelines, and high-concurrency microservices.
-- 💡 **Passion:** Writing clean, modular, and high-performance code that solves real-world business challenges.
+- 🌱 **Current Focus:** Multi-agent orchestration, agentic reasoning loops, and zero-latency inference architectures.
+- 💡 **Mission:** Bridging cutting-edge Artificial Intelligence with real-world customer traction and market-defining products.
 
 ---
 
@@ -110,15 +110,15 @@ core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, N
 
 ---
 
-### 🚀 Highlighted AI & Engineering Projects
+### 🚀 Highlighted AI & Engineering Ventures
 
 | Project | Description | Core Stack | Live Links |
 | :--- | :--- | :--- | :--- |
-| **🤖 [AI Bot Store](https://github.com/dhecode/ai-bot-store)** | Marketplace platform for testing, deploying, and monetizing intelligent AI automation agents and interactive chatbots. | `AI Agents` `JavaScript` `APIs` `Automation` | [Repository ↗](https://github.com/dhecode/ai-bot-store) |
-| **💼 [Telegram Job Lead AI Bot](https://github.com/dhecode/telegram-job-lead-bot)** | Autonomous scraping & alerting bot tracking remote developer opportunities and routing targeted hiring signals in real-time. | `Python` `Node.js` `Telegram API` `Webhooks` | [Repository ↗](https://github.com/dhecode/telegram-job-lead-bot) |
-| **👁️ [Computer Vision Assistive System](https://github.com/dhecode)** | Smart assistive wearable project applying real-time deep learning object detection for visual accessibility. | `Python` `OpenCV` `PyTorch` `Deep Learning` | [In Development ↗](https://github.com/dhecode) |
+| **🤖 [AI Bot Store](https://github.com/dhecode/ai-bot-store)** | Commercial AI storefront platform for testing, deploying, and monetizing intelligent automated agents. | `AI Agents` `JavaScript` `APIs` `SaaS` | [Repository ↗](https://github.com/dhecode/ai-bot-store) |
+| **💼 [Telegram Job Lead AI Bot](https://github.com/dhecode/telegram-job-lead-bot)** | Autonomous AI lead engine tracking remote developer jobs, parsing specifications, and dispatching real-time notifications. | `Python` `Node.js` `Telegram API` `Webhooks` | [Repository ↗](https://github.com/dhecode/telegram-job-lead-bot) |
+| **👁️ [Computer Vision Assistive System](https://github.com/dhecode)** | Assistive wearable project applying real-time deep learning object detection for visual spatial recognition. | `Python` `OpenCV` `PyTorch` `Deep Learning` | [In Development ↗](https://github.com/dhecode) |
 | **🐳 [Containerized Backend Service](https://github.com/dhecode/node_postgressql_docker_demo)** | Production-ready architecture demonstrating containerized Node.js API with PostgreSQL persistence and health checks. | `Node.js` `PostgreSQL` `Docker` `REST APIs` | [Repository ↗](https://github.com/dhecode/node_postgressql_docker_demo) |
-| **🛍️ [Amazon Full-Stack Clone](https://github.com/dhecode/Amazon-rjs)** | Full-stack e-commerce replica featuring responsive product discovery, state management, and cart checkout. | `React` `JavaScript` `Redux` `CSS3` | [Repository ↗](https://github.com/dhecode/Amazon-rjs) |
+| **🛍️ [Amazon Full-Stack Platform](https://github.com/dhecode/Amazon-rjs)** | Full-stack e-commerce architecture featuring responsive product discovery, reactive cart workflows, and checkout. | `React` `JavaScript` `Redux` `CSS3` | [Repository ↗](https://github.com/dhecode/Amazon-rjs) |
 | **📱 [iOS Expense Tracker](https://github.com/dhecode/Expense_Tracker)** | Native iOS financial tracker built with Swift and UIKit featuring real-time transaction analytics. | `Swift` `UIKit` `iOS` `CoreData` | [Repository ↗](https://github.com/dhecode/Expense_Tracker) |
 
 ---
@@ -144,7 +144,7 @@ core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, N
 
 <div align="center">
 
-I am actively open to discussing software engineering roles, AI agent integrations, and high-impact products!
+I am actively open to discussing senior AI engineering roles, technical co-founder opportunities, and venture-backed products!
 
 <br/>
 
