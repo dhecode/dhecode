@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=AI-Powered+Full-Stack+Software+Engineer;Building+Autonomous+AI+Agents+%26+Intelligent+Systems;LangChain+%7C+OpenAI+%7C+PyTorch+%7C+Python+%7C+Next.js;Deploying+Scalable+Microservices+%26+RAG+Pipelines;Open+For+Exciting+AI+%26+Full-Stack+Engineering+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%7C+JavaScript+%7C+TypeScript+%7C+Swift+%7C+Go;AI-Powered+Full-Stack+Software+Engineer;Building+Autonomous+AI+Agents+%26+Intelligent+Systems;LangChain+%7C+OpenAI+%7C+PyTorch+%7C+Next.js+%7C+Docker;Open+For+Exciting+AI+%26+Full-Stack+Engineering+Roles!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -34,19 +34,43 @@
 candidate: Utkarsh
 github: dhecode
 role: AI & Full-Stack Software Engineer
-focus_areas: Generative AI, Autonomous Agents, LLM Integrations, Scalable Cloud Systems
+top_languages: [Python, JavaScript, TypeScript, Swift, Go, Java, C++, SQL]
+focus_areas: Generative AI, Autonomous Agents, LLM Integrations, Scalable Cloud Systems, iOS
 seeking: Full-time AI Engineer / Full-Stack Engineer / Backend SDE
-core_stack: [Python, LangChain, PyTorch, OpenAI / Gemini, TypeScript, React, Next.js, Node.js, Docker, PostgreSQL]
+core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, Next.js, Node.js, Docker, PostgreSQL]
 ```
 
-- 🤖 **AI & Systems Focus:** Building production LLM applications, autonomous agents, and RAG pipelines integrated with robust full-stack architectures.
+- 🚀 **Core Expertise:** Building scalable AI-driven applications, high-performance backends, and responsive cross-platform experiences.
 - 💼 **Portfolio:** Explore my live work at [utkarsh-portfolio-five.vercel.app](https://utkarsh-portfolio-five.vercel.app/).
-- 🌱 **Current Research:** Multi-agent orchestration, fine-tuning lightweight models, and high-performance vector databases.
-- 💡 **Passion:** Bridging advanced Artificial Intelligence with real-world products that scale seamlessly.
+- 🌱 **Current Focus:** Multi-agent orchestration, LLM application pipelines, and high-concurrency microservices.
+- 💡 **Passion:** Writing clean, modular, and high-performance code that solves real-world business challenges.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🔥 Top & Most Trending Languages
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,swift,go,java,cpp,postgres" alt="Trending Languages Icons" />
+</p>
+
+</div>
+
+---
+
+### 🛠️ Complete Tech Stack
 
 <div align="center">
 
@@ -62,24 +86,24 @@ core_stack: [Python, LangChain, PyTorch, OpenAI / Gemini, TypeScript, React, Nex
   <img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 </p>
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,swift,cpp,html,css" alt="Programming Languages" />
-</p>
-
 #### ⚛️ Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,sass" alt="Frontend Tech" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,sass,html,css" alt="Frontend Tech" />
 </p>
 
 #### ⚙️ Backend, Databases & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,sqlite,postman" alt="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,sqlite,postman,redis" alt="Backend & DB" />
+</p>
+
+#### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,apple" alt="Mobile Development" />
 </p>
 
 #### ☁️ DevOps, Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,apple,vercel,npm" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,vercel,npm" alt="Tools & Platforms" />
 </p>
 
 </div>
