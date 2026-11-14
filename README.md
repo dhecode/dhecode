@@ -47,7 +47,7 @@ core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, N
 
 ---
 
-### 🏆 Achievements & Badges
+### 🏆 Official GitHub Achievements
 
 <div align="center">
 
@@ -66,14 +66,45 @@ core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, N
 <a href="https://github.com/dhecode?tab=achievements">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Merged Commit" />
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain - Accepted Discussion Answer" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="85" alt="Starstruck" title="Starstruck - 16+ Stars on Repositories" />
+</a>
 
-<br/><br/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Verified_Developer-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Innovator-Autonomous_Agents-7852FF?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack-Enterprise_Ready-22C55E?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-DSA_Practitioner-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+---
+
+### 🎖️ Professional Credentials & Engineering Badges
+
+<div align="center">
+
+<!-- Row 1: AI & Cloud -->
+<p>
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Neural_Networks_%26_LLMs-0075FF?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Architecture-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-AI_%26_ML_Ready-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</p>
+
+<!-- Row 2: DevOps, APIs & Algorithms -->
+<p>
+  <img src="https://img.shields.io/badge/Docker-Containerization_Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-API_Specialist-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/LeetCode-DSA_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/HackerRank-5--Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</p>
+
+<!-- Row 3: Standards & Verification -->
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Verified_Developer-181717?style=flat-square&logo=github&logoColor=white" alt="Verified Dev" />
+  <img src="https://img.shields.io/badge/AI_Innovator-Autonomous_Agents-7852FF?style=flat-square&logo=openai&logoColor=white" alt="AI Innovator" />
+  <img src="https://img.shields.io/badge/Full_Stack-Enterprise_Ready-22C55E?style=flat-square&logo=react&logoColor=white" alt="Enterprise Ready" />
+  <img src="https://img.shields.io/badge/Code_Quality-Clean_Architecture-blue?style=flat-square&logo=git&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Open_Source-Active_Builder-critical?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
 </p>
 
 </div>
