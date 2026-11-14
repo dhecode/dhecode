@@ -47,6 +47,39 @@ core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, N
 
 ---
 
+### 🏆 Achievements & Badges
+
+<div align="center">
+
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="85" alt="Pull Shark" title="Pull Shark - Pull Requests Merged" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw - Issue Closed in Record Time" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="85" alt="YOLO" title="YOLO - Merged Without Code Review" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Merged Commit" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Verified_Developer-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Innovator-Autonomous_Agents-7852FF?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-Enterprise_Ready-22C55E?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-DSA_Practitioner-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</p>
+
+</div>
+
+---
+
 ### 🔥 Top & Most Trending Languages
 
 <div align="center">
