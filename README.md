@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Dynamic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Utkarsh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24,30&height=210&section=header&text=Hi%20there,%20I'm%20Utkarsh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Flutter;Building+Scalable+Web+Apps+%26+Mobile+Systems;~3+Years+of+Production+Engineering+Experience;Open+to+Full-Stack+%26+Software+Engineering+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+%26+Full-Stack+Software+Engineer;React+%7C+Python+%7C+Node.js+%7C+Flutter+%7C+Next.js;Building+Intelligent+AI+Systems+%26+Production+Apps;~3+Years+of+Production+Engineering+Experience;Open+to+AI+%26+Full-Stack+Software+Roles!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,16 +32,54 @@
 
 ```yaml
 candidate: Utkarsh
-experience: ~3 Years in Production Software Engineering
-primary_focus: Full-Stack Web, Cross-Platform Mobile & AI Integrations
-core_stack: [React, Next.js, Node.js, Python, Flutter, TypeScript, PostgreSQL, Docker]
-seeking: Full-time Software Engineer (Full-Stack / Frontend / Mobile / Backend)
+role: AI & Full-Stack Software Engineer
+experience: ~3 Years in Production Engineering
+core_stack: [Python, React, Next.js, Node.js, Flutter, TypeScript, PostgreSQL, Docker]
+focus_areas: Production AI Systems, Full-Stack Web Platforms, Cross-Platform Mobile
+seeking: AI Software Engineer / Full-Stack Engineer / Frontend & Mobile SDE
 ```
 
-- 💼 **Background:** ~3 years building production web dashboards, REST APIs, and mobile applications with 30,000+ active users.
-- 🚀 **Specialization:** Highly responsive **React & Next.js** frontends, robust **Node.js & Python** backends, and cross-platform **Flutter** apps.
-- 🤖 **AI Pragmatism:** Practical integration of LLM APIs, web scrapers, and background automation workflows into full-stack applications.
+- 🤖 **AI Engineering:** Designing intelligent automation agents, LLM tool-calling pipelines (OpenAI / Gemini / LangChain), and high-throughput scrapers.
+- ⚡ **Full-Stack & Mobile:** ~3 years building scalable **React / Next.js** frontends, **Node.js & Python** REST APIs, and **Flutter / iOS** mobile apps serving 30,000+ users.
+- 🐳 **Reliable DevOps:** Containerized architectures with **Docker**, relational modeling with **PostgreSQL**, and automated CI/CD workflows.
 - 🌐 **Live Portfolio:** [utkarsh-portfolio-five.vercel.app](https://utkarsh-portfolio-five.vercel.app/)
+
+---
+
+### 🏆 Achievements & Badges
+
+<div align="center">
+
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark - Merged Pull Requests" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw - Issue Closed in Record Time" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80" alt="YOLO" title="YOLO - Merged Without Code Review" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Merged PR" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhecode?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="80" alt="Galaxy Brain" title="Galaxy Brain - Accepted Discussion Answer" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Engineer-Autonomous_Agents-7852FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/Full_Stack-React_%26_Node-22C55E?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter_%26_iOS-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile" />
+  <img src="https://img.shields.io/badge/DevOps-Docker_Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+</div>
 
 ---
 
@@ -49,34 +87,33 @@ seeking: Full-time Software Engineer (Full-Stack / Frontend / Mobile / Backend)
 
 <div align="center">
 
-#### 💻 Core Languages
+#### 🤖 AI & Python Core
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,postgres" alt="Core Languages" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="AI & Python" />
 </p>
 
 #### ⚛️ Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,ts,js,html,css" alt="Frontend Development" />
 </p>
 
-#### 📱 Mobile Development
+#### 📱 Mobile Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift" alt="Mobile Development" />
 </p>
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Backend, Databases & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" alt="Backend & Databases" />
 </p>
 
-#### ☁️ DevOps & Tooling
+#### ☁️ DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,vercel" alt="DevOps & Tools" />
 </p>
@@ -85,14 +122,15 @@ seeking: Full-time Software Engineer (Full-Stack / Frontend / Mobile / Backend)
 
 ---
 
-### 🚀 Production & Highlighted Projects
+### 🚀 Highlighted AI & Full-Stack Projects
 
-| Project | Description | Core Stack | Repository |
+| Project | Description | Core Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🤖 [Telegram Job Lead Bot](https://github.com/dhecode/telegram-job-lead-bot)** | Autonomous bot that scrapes job platforms, filters tech stacks, and dispatches real-time alerts. | `Python` `Node.js` `Telegram API` `Webhooks` | [View Repo ↗](https://github.com/dhecode/telegram-job-lead-bot) |
-| **🐳 [Containerized Backend Service](https://github.com/dhecode/node_postgressql_docker_demo)** | Production-ready REST API architecture with PostgreSQL persistence, Docker containerization, and health checks. | `Node.js` `PostgreSQL` `Docker` `Express` | [View Repo ↗](https://github.com/dhecode/node_postgressql_docker_demo) |
-| **🛍️ [Amazon Full-Stack Platform](https://github.com/dhecode/Amazon-rjs)** | Full-stack e-commerce application featuring responsive product discovery, cart state management, and checkout. | `React.js` `JavaScript` `Redux` `CSS3` | [View Repo ↗](https://github.com/dhecode/Amazon-rjs) |
-| **📱 [Mobile Expense Tracker](https://github.com/dhecode/Expense_Tracker)** | Native personal finance and expense analytics application featuring persistent storage and budget visualizations. | `Swift` `UIKit` `iOS` `CoreData` | [View Repo ↗](https://github.com/dhecode/Expense_Tracker) |
+| **🤖 [Telegram Job Lead AI Bot](https://github.com/dhecode/telegram-job-lead-bot)** | Autonomous bot that scrapes job platforms, filters technical criteria with LLMs, and dispatches real-time alerts. | `Python` `Node.js` `Telegram API` `Webhooks` | [Repository ↗](https://github.com/dhecode/telegram-job-lead-bot) |
+| **🛍️ [AI Bot Store](https://github.com/dhecode/ai-bot-store)** | Commercial platform showcasing interactive AI automation agents with multi-persona live simulators. | `AI Agents` `JavaScript` `APIs` `Automation` | [Repository ↗](https://github.com/dhecode/ai-bot-store) |
+| **🐳 [Containerized Backend Service](https://github.com/dhecode/node_postgressql_docker_demo)** | Production-ready REST API architecture with PostgreSQL persistence, multi-stage Docker builds, and health checks. | `Node.js` `PostgreSQL` `Docker` `Express` | [Repository ↗](https://github.com/dhecode/node_postgressql_docker_demo) |
+| **⚛️ [Amazon Full-Stack Platform](https://github.com/dhecode/Amazon-rjs)** | Full-stack e-commerce application featuring responsive product catalog, reactive cart state, and checkout. | `React.js` `JavaScript` `Redux` `CSS3` | [Repository ↗](https://github.com/dhecode/Amazon-rjs) |
+| **📱 [Mobile Expense Tracker](https://github.com/dhecode/Expense_Tracker)** | Native personal finance and expense analytics application featuring persistent storage and budget visualizations. | `Swift` `UIKit` `iOS` `CoreData` | [Repository ↗](https://github.com/dhecode/Expense_Tracker) |
 
 ---
 
@@ -115,7 +153,7 @@ seeking: Full-time Software Engineer (Full-Stack / Frontend / Mobile / Backend)
 
 <div align="center">
 
-Actively open to Full-Stack, Frontend, Backend, and Mobile software engineering roles.
+Open to AI Engineer, Full-Stack Engineer, Frontend, and Mobile software engineering roles.
 
 <br/>
 
