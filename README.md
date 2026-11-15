@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Dynamic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Utkarsh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Utkarsh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Tech+Entrepreneur;Building+Autonomous+AI+Agents+%26+Intelligent+SaaS;Python+%7C+LangChain+%7C+OpenAI+%7C+Next.js+%7C+TypeScript;Turning+Breakthrough+AI+Into+Scalable+Products;Open+For+High-Impact+AI+Roles+%26+Collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Flutter;Building+Scalable+Web+Apps+%26+Mobile+Systems;~3+Years+of+Production+Engineering+Experience;Open+to+Full-Stack+%26+Software+Engineering+Roles!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,162 +28,71 @@
 
 ---
 
-### 👨‍💻 Quick Overview
+### 👨‍💻 Engineering Snapshot
 
 ```yaml
-founder: Utkarsh
-github: dhecode
-role: AI Engineer & Tech Entrepreneur
-top_languages: [Python, JavaScript, TypeScript, Swift, Go, Java, C++, SQL]
-focus_areas: Generative AI, Autonomous Agents, LLM Integrations, Scalable Cloud Systems, Product Strategy
-seeking: High-Impact AI Engineer Roles / Technical Co-Founder / Strategic Collaborations
-core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, Next.js, Node.js, Docker, PostgreSQL]
+candidate: Utkarsh
+experience: ~3 Years in Production Software Engineering
+primary_focus: Full-Stack Web, Cross-Platform Mobile & AI Integrations
+core_stack: [React, Next.js, Node.js, Python, Flutter, TypeScript, PostgreSQL, Docker]
+seeking: Full-time Software Engineer (Full-Stack / Frontend / Mobile / Backend)
 ```
 
-- 🚀 **Founder & Builder:** Passionate about commercializing AI research into scalable, high-growth products and autonomous systems.
-- 💼 **Portfolio:** Explore my live work at [utkarsh-portfolio-five.vercel.app](https://utkarsh-portfolio-five.vercel.app/).
-- 🌱 **Current Focus:** Multi-agent orchestration, agentic reasoning loops, and zero-latency inference architectures.
-- 💡 **Mission:** Bridging cutting-edge Artificial Intelligence with real-world customer traction and market-defining products.
+- 💼 **Background:** ~3 years building production web dashboards, REST APIs, and mobile applications with 30,000+ active users.
+- 🚀 **Specialization:** Highly responsive **React & Next.js** frontends, robust **Node.js & Python** backends, and cross-platform **Flutter** apps.
+- 🤖 **AI Pragmatism:** Practical integration of LLM APIs, web scrapers, and background automation workflows into full-stack applications.
+- 🌐 **Live Portfolio:** [utkarsh-portfolio-five.vercel.app](https://utkarsh-portfolio-five.vercel.app/)
 
 ---
 
-### 🏆 Official GitHub Achievements
+### 🛠️ Core Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/dhecode?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="85" alt="Pull Shark" title="Pull Shark - Pull Requests Merged" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dhecode?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw - Issue Closed in Record Time" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dhecode?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="85" alt="YOLO" title="YOLO - Merged Without Code Review" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dhecode?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Merged Commit" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dhecode?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain - Accepted Discussion Answer" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dhecode?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="85" alt="Starstruck" title="Starstruck - 16+ Stars on Repositories" />
-</a>
-
-</div>
-
----
-
-### 🎖️ Professional Credentials & Engineering Badges
-
-<div align="center">
-
-<!-- Row 1: AI & Cloud -->
-<p>
-  <img src="https://img.shields.io/badge/DeepLearning.AI-Neural_Networks_%26_LLMs-0075FF?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Architecture-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-AI_%26_ML_Ready-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-</p>
-
-<!-- Row 2: DevOps, APIs & Algorithms -->
-<p>
-  <img src="https://img.shields.io/badge/Docker-Containerization_Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-API_Specialist-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/LeetCode-DSA_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/HackerRank-5--Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</p>
-
-<!-- Row 3: Standards & Verification -->
-<p>
-  <img src="https://img.shields.io/badge/GitHub-Verified_Developer-181717?style=flat-square&logo=github&logoColor=white" alt="Verified Dev" />
-  <img src="https://img.shields.io/badge/AI_Innovator-Autonomous_Agents-7852FF?style=flat-square&logo=openai&logoColor=white" alt="AI Innovator" />
-  <img src="https://img.shields.io/badge/Full_Stack-Enterprise_Ready-22C55E?style=flat-square&logo=react&logoColor=white" alt="Enterprise Ready" />
-  <img src="https://img.shields.io/badge/Code_Quality-Clean_Architecture-blue?style=flat-square&logo=git&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Open_Source-Active_Builder-critical?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
-</p>
-
-</div>
-
----
-
-### 🔥 Top & Most Trending Languages
-
-<div align="center">
-
+#### 💻 Core Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,swift,go,java,cpp,postgres" alt="Trending Languages Icons" />
-</p>
-
-</div>
-
----
-
-### 🛠️ Complete Tech Stack
-
-<div align="center">
-
-#### 🤖 Artificial Intelligence & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi" alt="AI Core" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,postgres" alt="Core Languages" />
 </p>
 
 #### ⚛️ Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,sass,html,css" alt="Frontend Tech" />
-</p>
-
-#### ⚙️ Backend, Databases & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,sqlite,postman,redis" alt="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" alt="Frontend Development" />
 </p>
 
 #### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,apple" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift" alt="Mobile Development" />
 </p>
 
-#### ☁️ DevOps, Cloud & Tools
+#### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,vercel,npm" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" alt="Backend & Databases" />
+</p>
+
+#### ☁️ DevOps & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,vercel" alt="DevOps & Tools" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 Highlighted AI & Engineering Ventures
+### 🚀 Production & Highlighted Projects
 
-| Project | Description | Core Stack | Live Links |
+| Project | Description | Core Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **🤖 [AI Bot Store](https://github.com/dhecode/ai-bot-store)** | Commercial AI storefront platform for testing, deploying, and monetizing intelligent automated agents. | `AI Agents` `JavaScript` `APIs` `SaaS` | [Repository ↗](https://github.com/dhecode/ai-bot-store) |
-| **💼 [Telegram Job Lead AI Bot](https://github.com/dhecode/telegram-job-lead-bot)** | Autonomous AI lead engine tracking remote developer jobs, parsing specifications, and dispatching real-time notifications. | `Python` `Node.js` `Telegram API` `Webhooks` | [Repository ↗](https://github.com/dhecode/telegram-job-lead-bot) |
-| **👁️ [Computer Vision Assistive System](https://github.com/dhecode)** | Assistive wearable project applying real-time deep learning object detection for visual spatial recognition. | `Python` `OpenCV` `PyTorch` `Deep Learning` | [In Development ↗](https://github.com/dhecode) |
-| **🐳 [Containerized Backend Service](https://github.com/dhecode/node_postgressql_docker_demo)** | Production-ready architecture demonstrating containerized Node.js API with PostgreSQL persistence and health checks. | `Node.js` `PostgreSQL` `Docker` `REST APIs` | [Repository ↗](https://github.com/dhecode/node_postgressql_docker_demo) |
-| **🛍️ [Amazon Full-Stack Platform](https://github.com/dhecode/Amazon-rjs)** | Full-stack e-commerce architecture featuring responsive product discovery, reactive cart workflows, and checkout. | `React` `JavaScript` `Redux` `CSS3` | [Repository ↗](https://github.com/dhecode/Amazon-rjs) |
-| **📱 [iOS Expense Tracker](https://github.com/dhecode/Expense_Tracker)** | Native iOS financial tracker built with Swift and UIKit featuring real-time transaction analytics. | `Swift` `UIKit` `iOS` `CoreData` | [Repository ↗](https://github.com/dhecode/Expense_Tracker) |
+| **🤖 [Telegram Job Lead Bot](https://github.com/dhecode/telegram-job-lead-bot)** | Autonomous bot that scrapes job platforms, filters tech stacks, and dispatches real-time alerts. | `Python` `Node.js` `Telegram API` `Webhooks` | [View Repo ↗](https://github.com/dhecode/telegram-job-lead-bot) |
+| **🐳 [Containerized Backend Service](https://github.com/dhecode/node_postgressql_docker_demo)** | Production-ready REST API architecture with PostgreSQL persistence, Docker containerization, and health checks. | `Node.js` `PostgreSQL` `Docker` `Express` | [View Repo ↗](https://github.com/dhecode/node_postgressql_docker_demo) |
+| **🛍️ [Amazon Full-Stack Platform](https://github.com/dhecode/Amazon-rjs)** | Full-stack e-commerce application featuring responsive product discovery, cart state management, and checkout. | `React.js` `JavaScript` `Redux` `CSS3` | [View Repo ↗](https://github.com/dhecode/Amazon-rjs) |
+| **📱 [Mobile Expense Tracker](https://github.com/dhecode/Expense_Tracker)** | Native personal finance and expense analytics application featuring persistent storage and budget visualizations. | `Swift` `UIKit` `iOS` `CoreData` | [View Repo ↗](https://github.com/dhecode/Expense_Tracker) |
 
 ---
 
@@ -191,13 +100,11 @@ core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, N
 
 <div align="center">
 
-<!-- Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhecode&theme=tokyonight" width="49%" alt="dhecode Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhecode&theme=tokyonight" width="49%" alt="dhecode Repos Per Language" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=dhecode&theme=tokyonight&hide_border=true" width="98%" alt="dhecode GitHub Streak" />
 
 </div>
@@ -208,7 +115,7 @@ core_stack: [Python, JavaScript, TypeScript, Swift, LangChain, PyTorch, React, N
 
 <div align="center">
 
-I am actively open to discussing senior AI engineering roles, technical co-founder opportunities, and venture-backed products!
+Actively open to Full-Stack, Frontend, Backend, and Mobile software engineering roles.
 
 <br/>
 
